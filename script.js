@@ -1,5 +1,5 @@
 function analogclock(){
-    window.location.href = "analog/Analog.html";
+    window.location.href = "analog/analog.html";
 }
 
 function digitalclock(){
